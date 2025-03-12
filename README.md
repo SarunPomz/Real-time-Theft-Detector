@@ -13,4 +13,8 @@
 
 เพื่อเป็นการติดตั้งโปรแกรมที่สามารถใช้ตัวโมเดลในกรณีที่มีโมเดลตัวอื่นดีกว่า
 
+ผลลัพธ์การทำนายของโมเดล
+![graph](https://github.com/user-attachments/assets/03bc7f76-0da6-4dd5-b00f-32dae05a29e0)
+
+
 ตัวอย่างผลลัพธ์ https://youtu.be/Lb5cNYaVBF0
